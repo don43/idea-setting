@@ -23,14 +23,13 @@
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
+      <path value="Tasks toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Run" is_action="true" action_type="-1" position="0">
+    <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="9">
@@ -43,12 +42,22 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Back" is_action="true" action_type="1" position="11">
+    <group seperator="true" action_type="1" position="11">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Forward" is_action="true" action_type="1" position="12">
+    <group value="CallHierarchy" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Back" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Forward" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
