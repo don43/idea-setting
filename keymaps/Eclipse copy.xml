@@ -5,8 +5,4 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
-  <action id="FindInPath" />
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
 </keymap>
