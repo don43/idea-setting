@@ -1,9 +1,4 @@
 <keymap version="1" name="Eclipse copy 1" parent="Eclipse">
-  <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="ctrl f9" />
-    <keyboard-shortcut first-keystroke="ctrl b" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
