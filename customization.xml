@@ -59,6 +59,13 @@
       <path value="Tasks toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="FindUsages" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="GotoSuperMethod" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -81,17 +88,22 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CallHierarchy" is_action="true" action_type="1" position="4">
+    <group value="FindUsages" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GotoSuperMethod" is_action="true" action_type="1" position="5">
+    <group value="CallHierarchy" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="6">
+    <group value="GotoSuperMethod" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="7">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
