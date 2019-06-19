@@ -23,6 +23,21 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="autoCloseTag" value="false" />
+    <option name="automaticallyInsertClosingTag" value="false" />
+    <option name="automaticallyInsertRequiredAttributes" value="false" />
+    <option name="automaticallyInsertRequiredSubTags" value="false" />
+    <option name="automaticallyStartAttribute" value="false" />
+    <option name="insertQuotesForAttributeValue" value="false" />
+    <option name="syncTagEditing" value="false" />
+    <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
 </application>
