@@ -54,6 +54,11 @@
       <path value="Tasks toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ShowIntentionsGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="FindUsages" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -126,6 +131,11 @@
     <group value="Forward" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowIntentionsGroup" is_group="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
