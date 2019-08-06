@@ -1,4 +1,5 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="ide Default" />
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
