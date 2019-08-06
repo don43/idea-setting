@@ -1,11 +1,14 @@
 <keymap version="1" name="Eclipse copy 1" parent="Eclipse">
-  <action id="$Redo" />
   <action id="Compile">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="IncrementalSearch" />
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
@@ -16,7 +19,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
