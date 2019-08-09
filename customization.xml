@@ -1,5 +1,15 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ToggleProjectInspectionAction" is_action="true" action_type="-1" position="39">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AliP3CInspectionAction" is_action="true" action_type="-1" position="38">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ToggleProjectInspectionAction" is_action="true" action_type="-1" position="23">
       <path value="root" />
       <path value="Editor Popup Menu" />

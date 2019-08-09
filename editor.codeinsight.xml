@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="ide Default" />
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
