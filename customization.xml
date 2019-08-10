@@ -42,6 +42,13 @@
       <path value="Go To" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -82,6 +89,13 @@
       <path value="Editor Popup Menu" />
       <path value="Editor Popup Menu Actions (2)" />
       <path value="Go To" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="TypeHierarchy" is_action="true" action_type="1" position="1">
