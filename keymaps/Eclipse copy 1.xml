@@ -8,7 +8,8 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="IncrementalSearch" />
+  <action id="EvaluateExpression" />
+  <action id="JumpToLastChange" />
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
@@ -19,7 +20,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
