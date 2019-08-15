@@ -9,6 +9,9 @@
         <DecorationPartConfig>
           <option name="type" value="STATUS" />
         </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="BRANCH" />
+        </DecorationPartConfig>
       </list>
     </option>
     <option name="blameInlineShowSubject" value="false" />
