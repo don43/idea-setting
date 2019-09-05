@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <JavaCodeStyleSettings>
+    <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   </JavaCodeStyleSettings>
   <Properties>

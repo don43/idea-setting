@@ -15,5 +15,7 @@
     <ignoreAction name="XML/Remove tag" />
     <ignoreAction name="XML/Reset to default namespace" />
     <ignoreAction name="XML/Split current tag" />
+    <ignoreAction name="Java/Modifiers/Change access modifier" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
