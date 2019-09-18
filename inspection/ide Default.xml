@@ -504,7 +504,16 @@
   <inspection_tool class="FieldAccessedSynchronizedAndUnsynchronized" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="countGettersAndSetters" value="false" />
   </inspection_tool>
-  <inspection_tool class="FieldCanBeLocal" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="FieldCanBeLocal" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="EXCLUDE_ANNOS">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="javax.persistence.Column" />
+        </list>
+      </value>
+    </option>
+    <option name="IGNORE_FIELDS_USED_IN_MULTIPLE_METHODS" value="true" />
+  </inspection_tool>
   <inspection_tool class="FieldCount" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_countConstantFields" value="false" />
     <option name="m_considerStaticFinalFieldsConstant" value="false" />
@@ -841,7 +850,7 @@
   <inspection_tool class="MathRandomCastToInt" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MavenDuplicateDependenciesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MavenDuplicatePluginInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="MavenModelInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="MavenModelInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MavenPropertyInParent" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MavenRedundantGroupId" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MetaAnnotationWithoutRuntimeRetention" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -1636,10 +1645,13 @@
   <inspection_tool class="WaitOrAwaitWithoutTimeout" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="WaitWhileHoldingTwoLocks" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="WaitWithoutCorrespondingNotify" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="WeakerAccess" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
-    <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
+  <inspection_tool class="WeakerAccess" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="false" />
+    <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="false" />
     <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
+    <option name="SUGGEST_FOR_CONSTANTS" value="false" />
+    <disabledExtension id="junit" />
+    <disabledExtension id="moduleInfo" />
   </inspection_tool>
   <inspection_tool class="WhileCanBeForeach" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="WhileLoopSpinsOnField" enabled="true" level="WARNING" enabled_by_default="true">
