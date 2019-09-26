@@ -5,6 +5,9 @@
         <option name="goals">
           <list>
             <Goal>
+              <option name="commandLine" value="clean compile -DskipTests" />
+            </Goal>
+            <Goal>
               <option name="commandLine" value="clean package -DskipTests" />
             </Goal>
             <Goal>
