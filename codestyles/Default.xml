@@ -19,4 +19,10 @@
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
 </code_scheme>
