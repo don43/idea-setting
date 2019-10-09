@@ -1,5 +1,6 @@
 <keymap version="1" name="Eclipse copy 1" parent="Eclipse">
   <action id="ChangesView.Revert" />
+  <action id="CloseActiveTab" />
   <action id="Compile">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
@@ -21,7 +22,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
