@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="ChangesView.Revert" />
   <action id="Compile">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
@@ -24,4 +25,5 @@
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
+  <action id="Vcs.RollbackChangedLines" />
 </keymap>
