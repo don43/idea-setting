@@ -1,0 +1,24 @@
+<application>
+  <component name="MavenRunHelper">
+    <option name="goals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="clean compile -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean deploy -DskipTests" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+  </component>
+</application>
