@@ -1,35 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ToggleProjectInspectionAction" is_action="true" action_type="-1" position="39">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AliP3CInspectionAction" is_action="true" action_type="-1" position="38">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToggleProjectInspectionAction" is_action="true" action_type="-1" position="23">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AliP3CInspectionAction" is_action="true" action_type="-1" position="22">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="$SearchWeb" is_action="true" action_type="-1" position="17">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="OtherMenu" is_group="true" action_type="-1" position="13">
       <path value="root" />
       <path value="Main menu" />
@@ -55,11 +25,30 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="EditorPopupMenuDebug" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="GotoSuperMethod" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <path value="Editor Popup Menu Actions (2)" />
       <path value="Go To" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunContextPopupGroup" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunContextPopupGroup" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
@@ -99,6 +88,25 @@
       <path value="EditorPopupMenu1.FindRefactor" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RunClass" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="RunContextGroupInner" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunClass" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="RunContextGroupInner" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="GotoDeclaration" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -111,6 +119,19 @@
       <path value="Go To" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RunContextPopupGroup" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunContextPopupGroup" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Git.Pull" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -121,6 +142,25 @@
     <group value="TypeHierarchy" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunClass" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="RunContextGroupInner" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunClass" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="RunContextGroupInner" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="GotoImplementation" is_action="true" action_type="1" position="2">
@@ -143,6 +183,12 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="EditorPopupMenuDebug" is_group="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="6">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -163,12 +209,12 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Back" is_action="true" action_type="1" position="14">
+    <group value="Back" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Forward" is_action="true" action_type="1" position="15">
+    <group value="Forward" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
