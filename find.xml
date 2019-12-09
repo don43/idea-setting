@@ -15,5 +15,6 @@
     <mask>*.sql</mask>
     <mask>*config.properties</mask>
     <mask>*.properties</mask>
+    <mask>*-me.properties</mask>
   </component>
 </application>
