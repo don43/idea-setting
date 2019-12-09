@@ -4,5 +4,6 @@
     <option name="compactDirectories" value="true" />
     <option name="flattenModules" value="true" />
     <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
   </component>
 </application>
