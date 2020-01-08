@@ -1244,7 +1244,7 @@
   <inspection_tool class="SafeLock" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SafeVarargsDetector" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SamePackageImport" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SameParameterValue" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SameParameterValue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SameReturnValue" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ScheduledForRemoval" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SerialPersistentFieldsWithWrongSignature" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -1606,7 +1606,7 @@
   <inspection_tool class="UnusedLibrary" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedMessageFormatParameter" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnusedProperty" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="UnusedReturnValue" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedReturnValue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UpperCaseFieldNameNotConstant" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UseBulkOperation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UseCompareMethod" enabled="true" level="WARNING" enabled_by_default="true" />

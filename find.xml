@@ -12,7 +12,8 @@
     <mask>*.xml</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
-    <mask>*.properties</mask>
     <mask>*.sql</mask>
+    <mask>*config.properties</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
