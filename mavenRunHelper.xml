@@ -5,16 +5,16 @@
         <option name="goals">
           <list>
             <Goal>
-              <option name="commandLine" value="clean compile -DskipTests" />
+              <option name="commandLine" value="clean compile -Dmaven.test.skip" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean package -DskipTests" />
+              <option name="commandLine" value="clean package -Dmaven.test.skip" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean install -DskipTests" />
+              <option name="commandLine" value="clean install -Dmaven.test.skip" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean deploy -DskipTests" />
+              <option name="commandLine" value="clean deploy -Dmaven.test.skip" />
             </Goal>
           </list>
         </option>
