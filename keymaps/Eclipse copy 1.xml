@@ -10,7 +10,6 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="EvaluateExpression" />
   <action id="JumpToLastChange" />
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="ctrl b" />
