@@ -1301,7 +1301,7 @@
   <inspection_tool class="PointlessBitwiseExpression" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreExpressionsContainingConstants" value="true" />
   </inspection_tool>
-  <inspection_tool class="PointlessBooleanExpression" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="PointlessBooleanExpression" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_ignoreExpressionsContainingConstants" value="true" />
   </inspection_tool>
   <inspection_tool class="PointlessIndexOfComparison" enabled="false" level="WARNING" enabled_by_default="false" />
