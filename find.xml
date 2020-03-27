@@ -15,10 +15,10 @@
     <mask>*.sql</mask>
     <mask>*config.properties</mask>
     <mask>*-me.properties</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>!*.sql</mask>
     <mask>*.jrxml</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
