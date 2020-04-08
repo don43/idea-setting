@@ -2,6 +2,7 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
+        <option value="java:S1066" />
         <option value="java:S110" />
         <option value="java:S1121" />
         <option value="java:S1186" />
