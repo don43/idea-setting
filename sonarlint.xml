@@ -3,9 +3,15 @@
     <option name="excludedRules">
       <set>
         <option value="java:S110" />
+        <option value="java:S1121" />
+        <option value="java:S1186" />
+        <option value="java:S1192" />
         <option value="java:S1452" />
+        <option value="java:S1640" />
         <option value="java:S1659" />
         <option value="java:S2160" />
+        <option value="java:S2629" />
+        <option value="java:S3457" />
         <option value="java:S3776" />
       </set>
     </option>
