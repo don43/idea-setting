@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="java:S2160" />
+      </set>
+    </option>
+    <option name="fileExclusions">
+      <list>
+        <option value="src/main/test/**" />
+        <option value="**/*{!.java}" />
+      </list>
+    </option>
+  </component>
+</application>
