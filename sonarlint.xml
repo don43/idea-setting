@@ -2,7 +2,11 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
+        <option value="java:S110" />
+        <option value="java:S1452" />
+        <option value="java:S1659" />
         <option value="java:S2160" />
+        <option value="java:S3776" />
       </set>
     </option>
     <option name="fileExclusions">
