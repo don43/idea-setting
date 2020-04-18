@@ -7,7 +7,6 @@
   <component name="DaemonCodeAnalyzerSettings" profile="ide Default" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -22,5 +21,8 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
