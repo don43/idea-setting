@@ -5,8 +5,8 @@
       <mapping pattern="V1581501709927__group.sql" type="PLAIN_TEXT" />
       <mapping pattern="V1566376007913_sql" type="PLAIN_TEXT" />
       <mapping pattern="V1583725497__notPacking_sql" type="PLAIN_TEXT" />
-      <mapping pattern="V1566399216__agreementInit_sql" type="PLAIN_TEXT" />
       <mapping pattern="V1583982030__order_sql" type="PLAIN_TEXT" />
+      <mapping pattern="V1566399216__agreementInit_sql" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
