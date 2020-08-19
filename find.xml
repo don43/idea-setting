@@ -20,5 +20,6 @@
     <mask>*.jrxml</mask>
     <mask>*.vue</mask>
     <mask>!*.sql</mask>
+    <mask>!*jrxml</mask>
   </component>
 </application>
