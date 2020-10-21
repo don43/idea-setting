@@ -5,11 +5,6 @@
       <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="10">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -38,19 +33,6 @@
       <path value="Go To" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunContextPopupGroup" is_group="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="Project View Popup Menu Run Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunContextPopupGroup" is_group="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="Compile/Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -68,12 +50,6 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Tasks toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ShowIntentionsGroup" is_group="true" action_type="-1" position="0">
@@ -98,6 +74,12 @@
       <path value="RunContextGroupInner" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ProjectViewCompileGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="RunClass" is_group="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -119,19 +101,6 @@
       <path value="Go To" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunContextPopupGroup" is_group="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="Compile/Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunContextPopupGroup" is_group="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="Project View Popup Menu Run Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.Pull" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -142,6 +111,12 @@
     <group value="TypeHierarchy" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewCompileGroup" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RunClass" is_group="true" action_type="1" position="1">
@@ -184,6 +159,11 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="9">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -194,17 +174,12 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="11">
+    <group value="Back" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Back" is_action="true" action_type="1" position="13">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Forward" is_action="true" action_type="1" position="14">
+    <group value="Forward" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
