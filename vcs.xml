@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="don43xu@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.100.200" />
+          <option name="userName" value="don@gixon.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
