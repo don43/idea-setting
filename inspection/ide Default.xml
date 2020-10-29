@@ -794,7 +794,6 @@
   <inspection_tool class="DeprecatedClassUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DeprecatedGradleDependency" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DeprecatedIsStillUsed" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="DeprecatedLombok" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DeprecatedMavenDependency" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Deprecation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DesignForExtension" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -1473,7 +1472,6 @@
     <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
   </inspection_tool>
   <inspection_tool class="LoggingConditionDisagreesWithLogStatement" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="Lombok" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LongLine" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LongLiteralsEndingWithLowercaseL" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LoopConditionNotUpdatedInsideLoop" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1911,9 +1909,6 @@
   <inspection_tool class="RedundantLambdaParameterType" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="RedundantMethodOverride" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantModalityModifier" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RedundantModifiersUtilityClassLombok" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RedundantModifiersValLombok" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RedundantModifiersValueLombok" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantNotNullExtensionReceiverOfInline" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="RedundantObjectTypeCheck" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="RedundantOperationOnEmptyContainer" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -1924,7 +1919,6 @@
   <inspection_tool class="RedundantSamConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantSemicolon" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantSetter" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="RedundantSlf4jDefinition" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantStreamOptionalCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RedundantStringFormatCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true" />
