@@ -36,13 +36,8 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <option name="lastViewedProviderKeyId" value="annotation.hints" />
     <settingsMapElement>
-      <JAVA.annotation.hints>
-        <Settings>
-          <option name="showInferred" value="true" />
-        </Settings>
-      </JAVA.annotation.hints>
       <JAVA.JavaLens>
         <JavaLensSettings>
           <option name="showImplementations" value="true" />
