@@ -8,19 +8,29 @@
       </list>
     </option>
     <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.100.200:8085/" />
+          <token>dfccdfcfdf9adf92df9fdfccdf92df9fdfcedfcfdf9cdf9bdfc8dfccdfccdfc9dfcfdfcfdfcfdf9cdf93df93df98df92dfc8dfc8df99df99dfcfdf98df93df99df9edfcfdf98df98df9fdf9fdfcbdf9e</token>
+          <option name="name" value="internal" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules>
-      <Rule active="false" key="java:S110" />
       <Rule active="false" key="java:S1640" />
       <Rule active="false" key="java:S1452" />
-      <Rule active="false" key="java:S2160" />
-      <Rule active="false" key="java:S1066" />
       <Rule active="false" key="java:S1121" />
-      <Rule active="false" key="java:S1186" />
+      <Rule active="false" key="java:S1066" />
       <Rule active="false" key="java:S2629" />
+      <Rule active="false" key="java:S1186" />
       <Rule active="false" key="java:S1192" />
+      <Rule active="false" key="java:S110" />
+      <Rule active="false" key="java:S2160" />
       <Rule active="false" key="java:S1659" />
-      <Rule active="false" key="java:S3457" />
       <Rule active="false" key="java:S3776" />
+      <Rule active="false" key="java:S3457" />
     </rules>
   </component>
 </application>
