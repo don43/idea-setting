@@ -20,8 +20,8 @@
     <mask>!*.sql</mask>
     <mask>!*jrxml</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*jrxml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
