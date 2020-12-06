@@ -1,6 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="autoTrigger" value="false" />
     <option name="fileExclusions">
       <list>
         <option value="src/main/test/**" />
@@ -29,8 +28,8 @@
       <Rule active="false" key="java:S110" />
       <Rule active="false" key="java:S2160" />
       <Rule active="false" key="java:S1659" />
-      <Rule active="false" key="java:S3776" />
       <Rule active="false" key="java:S3457" />
+      <Rule active="false" key="java:S3776" />
     </rules>
   </component>
 </application>
