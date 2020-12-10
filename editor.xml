@@ -36,13 +36,13 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="annotation.hints" />
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
     <settingsMapElement>
       <JAVA.JavaLens>
-        <JavaLensSettings>
+        <JavaCodeVisionSettings>
           <option name="showImplementations" value="true" />
           <option name="showUsages" value="true" />
-        </JavaLensSettings>
+        </JavaCodeVisionSettings>
       </JAVA.JavaLens>
     </settingsMapElement>
   </component>
