@@ -1,10 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="OtherMenu" is_group="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Main menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -33,6 +28,12 @@
       <path value="Go To" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ProjectViewCompileGroup" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -44,12 +45,6 @@
       <path value="root" />
       <path value="Editor Popup Menu" />
       <path value="ShowIntentionsGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ShowIntentionsGroup" is_group="true" action_type="-1" position="0">
@@ -72,12 +67,6 @@
       <path value="Run Configurations" />
       <path value="RunContextGroup" />
       <path value="RunContextGroupInner" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ProjectViewCompileGroup" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="Project View Popup Menu Run Group" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RunClass" is_group="true" action_type="-1" position="0">
