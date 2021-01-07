@@ -43,6 +43,8 @@
     <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern useCustomColors="true" pattern="\b(todo|fixme)\b.*">
+      <option name="FOREGROUND" value="ff8c00" />
+    </pattern>
   </component>
 </application>
