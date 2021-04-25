@@ -18,9 +18,9 @@
     <mask>!*jrxml</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>*.properties</mask>
     <mask>*.properties1</mask>
     <mask>*jrxml</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
