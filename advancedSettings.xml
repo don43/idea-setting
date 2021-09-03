@@ -1,0 +1,9 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="temporary.configurations.limit" value="0" />
+      </map>
+    </option>
+  </component>
+</application>
