@@ -9,6 +9,7 @@
       <mapping pattern="V1581501709927__group.sql" type="PLAIN_TEXT" />
       <mapping pattern="V1583725497__notPacking_sql" type="PLAIN_TEXT" />
       <mapping pattern="V1566399216__agreementInit_sql" type="PLAIN_TEXT" />
+      <mapping ext="classdata" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping pattern="ReceiptQuery" type="XML" />
       <mapping pattern="SupplyAgreementQuery.xml" type="XML" />
