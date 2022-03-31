@@ -8,7 +8,6 @@
     <mask>!*.java</mask>
     <mask>*config.properties</mask>
     <mask>*-me.properties</mask>
-    <mask>*.js</mask>
     <mask>*.jrxml</mask>
     <mask>*.vue</mask>
     <mask>!*.sql</mask>
@@ -22,5 +21,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.js</mask>
   </component>
 </application>
