@@ -50,7 +50,7 @@
     <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern useCustomColors="true" pattern="\b(todo|fixme)\b.*">
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="(TODO|FIXME).*">
       <option name="FOREGROUND" value="ff8c00" />
     </pattern>
   </component>
