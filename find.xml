@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jrxml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>!*.java</mask>
     <mask>*config.properties</mask>
     <mask>*-me.properties</mask>
-    <mask>*.jrxml</mask>
     <mask>*.vue</mask>
     <mask>!*.sql</mask>
     <mask>!*jrxml</mask>
@@ -22,5 +22,6 @@
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.jrxml</mask>
   </component>
 </application>
