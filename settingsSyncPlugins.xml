@@ -210,7 +210,9 @@
         </entry>
         <entry key="org.intellij.groovy">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="org.intellij.plugins.markdown">
