@@ -104,6 +104,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.mikesafonov.jenkins-linter-idea-plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.gradle">
           <value>
             <PluginData>
@@ -199,9 +210,7 @@
         </entry>
         <entry key="org.intellij.groovy">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.intellij.plugins.markdown">

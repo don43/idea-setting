@@ -4,22 +4,23 @@
     <extensionMap>
       <mapping pattern="V1646365143_bizOrg_sql" type="AUTO_DETECTED" />
       <mapping pattern="V1_0_1629796246212__addMyPartTypes2_sql" type="AUTO_DETECTED" />
-      <mapping pattern="V1583982030__order_sql" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="V1566376007913_sql" type="PLAIN_TEXT" />
       <mapping pattern="V1581501709927__group.sql" type="PLAIN_TEXT" />
       <mapping pattern="V1583725497__notPacking_sql" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="V1566399216__agreementInit_sql" type="PLAIN_TEXT" />
-      <mapping ext="classdata" type="PLAIN_TEXT" />
+      <mapping pattern="V1583982030__order_sql" type="PLAIN_TEXT" />
+      <mapping pattern="V1566376007913_sql" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
-      <mapping pattern="ReceiptQuery" type="XML" />
+      <mapping ext="classdata" type="PLAIN_TEXT" />
       <mapping pattern="SupplyAgreementQuery.xml" type="XML" />
+      <mapping pattern="ReceiptQuery" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
