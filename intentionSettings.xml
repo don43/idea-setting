@@ -92,5 +92,10 @@
     <ignoreAction name="Groovy/Other/Copy string concatenation text to clipboard" />
     <ignoreAction name="Groovy/Other/Create missing 'switch' branches" />
     <ignoreAction name="Groovy/Other/Sort map entries alphabetically" />
+    <ignoreAction name="Java/Lombok/Replace 'val' with explicit type (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace 'var' with explicit type (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace explicit type with 'val' (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace explicit type with 'var' (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace with annotations (Lombok)" />
   </component>
 </application>

@@ -604,6 +604,9 @@
   <inspection_tool class="JavaFxUnresolvedFxIdReference" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JavaFxUnusedImports" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JavaMapForEach" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JavadocDeclaration" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="ADDITIONAL_TAGS" value="date" />
+  </inspection_tool>
   <inspection_tool class="JoinDeclarationAndAssignment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="Junit4Converter" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="KDocUnresolvedReference" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -642,6 +645,39 @@
   <inspection_tool class="MismatchedStringCase" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MisorderedAssertEqualsParameters" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingDeprecatedAnnotationOnScheduledForRemovalApi" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="MissingJavadoc" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="PACKAGE_SETTINGS">
+      <Options>
+        <option name="ENABLED" value="false" />
+      </Options>
+    </option>
+    <option name="MODULE_SETTINGS">
+      <Options>
+        <option name="ENABLED" value="false" />
+      </Options>
+    </option>
+    <option name="TOP_LEVEL_CLASS_SETTINGS">
+      <Options>
+        <option name="ENABLED" value="false" />
+      </Options>
+    </option>
+    <option name="INNER_CLASS_SETTINGS">
+      <Options>
+        <option name="ENABLED" value="false" />
+      </Options>
+    </option>
+    <option name="METHOD_SETTINGS">
+      <Options>
+        <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        <option name="ENABLED" value="false" />
+      </Options>
+    </option>
+    <option name="FIELD_SETTINGS">
+      <Options>
+        <option name="ENABLED" value="false" />
+      </Options>
+    </option>
+  </inspection_tool>
   <inspection_tool class="MissingMnemonic" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingRecentApi" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MissingSerialAnnotation" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -731,7 +767,6 @@
   <inspection_tool class="RedundantLambdaArrow" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantLambdaOrAnonymousFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantModalityModifier" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RedundantModifiersValLombok" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantModifiersValueLombok" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantNullableReturnType" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RedundantObjectTypeCheck" enabled="false" level="INFORMATION" enabled_by_default="false" />
@@ -805,10 +840,7 @@
   <inspection_tool class="SerialPersistentFieldsWithWrongSignature" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SerialVersionUIDNotStaticFinal" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SerializableCtor" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreAnonymousInnerClasses" value="false" />
-    <option name="superClassString" value="java.awt.Component" />
-  </inspection_tool>
+  <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SerializableInnerClassHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreAnonymousInnerClasses" value="false" />
     <option name="superClassString" value="java.awt.Component" />
@@ -838,6 +870,7 @@
   <inspection_tool class="SpringFacetInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="checkTestFiles" value="false" />
   </inspection_tool>
+  <inspection_tool class="SpringQualifierCopyableLombok" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlAddNotNullColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlAggregatesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlAmbiguousColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -939,7 +972,7 @@
       </value>
     </option>
   </inspection_tool>
-  <inspection_tool class="unused" enabled="true" level="WARNING" enabled_by_default="true" klass="packageLocal" inner_class="protected" method="private">
+  <inspection_tool class="unused" enabled="true" level="WARNING" enabled_by_default="true" klass="packageLocal" inner_class="protected" method="private" checkParameterExcludingHierarchy="false">
     <option name="LOCAL_VARIABLE" value="true" />
     <option name="FIELD" value="true" />
     <option name="METHOD" value="true" />
