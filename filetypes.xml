@@ -3,6 +3,7 @@
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*ObjectStore*;*~;.DS_Store;.classpath;.flattened-pom.xml;.git;.github;.gitignore;.hg;.idea;.project;.resourceCache;.settings;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="V1646365143_bizOrg_sql" type="AUTO_DETECTED" />
+      <mapping pattern="Jenkinsfile" type="AUTO_DETECTED" />
       <mapping pattern="V1_0_1629796246212__addMyPartTypes2_sql" type="AUTO_DETECTED" />
       <mapping pattern="V1583982030__order_sql" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
