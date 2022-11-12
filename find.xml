@@ -22,5 +22,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
