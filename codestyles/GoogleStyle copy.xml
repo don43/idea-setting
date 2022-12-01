@@ -7,7 +7,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <JSON>
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="5" />
